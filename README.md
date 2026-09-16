@@ -1,2 +1,2 @@
 # PythonQuelltexte
-Quelltexte zu Python
+Quelltexte zu Python -- lediglich Stringverarbeitung
